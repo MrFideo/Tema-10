@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081126364717",
+    "project_id": "tema-10-dfe1a",
+    "storage_bucket": "tema-10-dfe1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081126364717:android:b8d9e7e91af0224bd7baa4",
+        "android_client_info": {
+          "package_name": "com.tecmilenio.tema10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzIH0SofJvC0eusuKRurtMggFoWV2T3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
